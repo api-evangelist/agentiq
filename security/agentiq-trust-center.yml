@@ -1,0 +1,12 @@
+generated: '2026-07-17'
+method: searched
+probe: true
+source: https://agentiq.com/security-and-accessibility
+url: https://agentiq.com/security-and-accessibility
+certifications:
+- SOC 2
+evidence:
+- source: https://agentiq.com/security-and-accessibility
+  keywords:
+  - soc 2
+  - soc2

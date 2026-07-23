@@ -1,8 +1,26 @@
 aid: agentiq
 name: AgentIQ
-description: 'AgentIQ is a company surfaced as a portfolio company of sierra-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Agent IQ is an AI-powered relationship-banking and institutional-intelligence
+  platform for banks and credit unions. Its Lynq platform connects account holders
+  with a personal banker across persistent digital channels — messaging, SMS, voice,
+  social (WhatsApp/Facebook), web chat, co-browsing and video banking — while its agentic-AI
+  products (Smart Assist, Smart Drive, Smart Control) guide staff and automate back-office
+  workflows. Delivered as SaaS with single-tenant deployment per institution and integrations
+  into digital-banking cores (Q2, Narmi, Jack Henry Banno, ebankIT, FIS, Fiserv, Lumin,
+  Apiture) via APIs and webhooks. SOC 2 Type II and WCAG 2.1 AA. Headquartered in Austin,
+  Texas and backed by Sierra Ventures.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://agentiq.com/hubfs/hero_video_thumbnail.png
 url: https://raw.githubusercontent.com/api-evangelist/agentiq/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -15,7 +33,13 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Ai
+- AI
+- Banking
+- Financial Services
+- Conversational AI
+- Customer Engagement
+- Relationship Banking
+- Agentic AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,32 @@ maintainers:
 common:
 - type: Website
   url: https://agentiq.com/
+- type: DeveloperPortal
+  url: https://developer.lynq.network/
+- type: Documentation
+  url: https://dev.agentiq.com/
+- type: Blog
+  url: https://agentiq.com/the-scoop/
+- type: SignUp
+  url: https://agentiq.com/demo
+- type: Support
+  url: mailto:hello@agentiq.com
+- type: PrivacyPolicy
+  url: https://agentiq.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/agentiq
+- type: Compliance
+  url: https://agentiq.com/security-and-accessibility
+- type: Conformance
+  url: conformance/agentiq-conformance.yml
+- type: TrustCenter
+  url: security/agentiq-trust-center.yml
+- type: DomainSecurity
+  url: security/agentiq-domain-security.yml
+- type: LLMsTxt
+  url: llms/agentiq-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,35 @@
+# AgentIQ (Agent IQ)
+
+> AI-powered relationship banking and institutional intelligence for banks and credit unions. The Lynq platform connects account holders with a personal banker across persistent digital channels (messaging, SMS, voice, social, web chat, video banking, co-browsing), while agentic-AI products automate staff guidance and back-office workflows. Delivered as SaaS with single-tenant deployment per institution; SOC 2 Type II and WCAG 2.1 AA. Backed by Sierra Ventures.
+
+## Products
+- [Lynq relationship banking](https://agentiq.com/lynq-relationship-banking): Core persistent relationship-banking platform
+- [Lynq persistent messaging](https://agentiq.com/lynq-persistent-messaging): Always-on customer messaging
+- [Lynq smart chat](https://agentiq.com/lynq-smart-chat): AI self-service chat
+- [Banker Lynq](https://agentiq.com/services/banker-lynq): Persistent banker relationship contact
+- [Video banking](https://agentiq.com/services/video-banking): Video banking service
+- [AI for internal staff (Smart Assist / Smart Drive)](https://agentiq.com/services/ai-for-internal-staff): Generative-AI staff guidance and efficiency tools
+- [AI for leadership (Smart Control)](https://agentiq.com/services/ai-for-leadership): Agentic-AI back-office workflow automation
+
+## Solutions
+- [Retail banking](https://agentiq.com/solutions/retail-banking)
+- [Business banking](https://agentiq.com/solutions/business-banking)
+- [Internal support](https://agentiq.com/solutions/internal-support)
+
+## Developers
+- [Lynq Developer Portal](https://developer.lynq.network/): Theneo-hosted developer portal for the Lynq API (partner/customer facing)
+- [Developer docs (dev.agentiq.com)](https://dev.agentiq.com/): Developer documentation entry point
+- [API overview](https://agentiq.com/api): API and integrations overview
+- Integrations: Lynq integrates with digital-banking platforms (Q2, Narmi, Jack Henry Banno, ebankIT, FIS, Fiserv, Lumin, Apiture) and business systems (CRM, ticketing, e-signature) via APIs and webhooks. No public OpenAPI specification is published.
+
+## Trust & security
+- [Security & Accessibility](https://agentiq.com/security-and-accessibility): SOC 2 Type II, WCAG 2.1 AA, AWS/GCP single-tenancy
+
+## Company
+- [The Scoop (blog)](https://agentiq.com/the-scoop/)
+- [About us](https://agentiq.com/company/about-us)
+- [Careers](https://agentiq.com/company/about-us/careers)
+- [Request a demo](https://agentiq.com/demo)
+- [Privacy policy](https://agentiq.com/privacy-policy)
+- [GitHub](https://github.com/agentiq)
+- Contact: hello@agentiq.com
