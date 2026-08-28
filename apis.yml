@@ -9,6 +9,17 @@ description: 'Agent IQ is an AI-powered relationship-banking and institutional-i
   into digital-banking cores (Q2, Narmi, Jack Henry Banno, ebankIT, FIS, Fiserv, Lumin,
   Apiture) via APIs and webhooks. SOC 2 Type II and WCAG 2.1 AA. Headquartered in Austin,
   Texas and backed by Sierra Ventures.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
