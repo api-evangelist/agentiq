@@ -46,11 +46,11 @@ tags:
 - Company
 - Artificial Intelligence
 - Banking
-- Financial-Services
+- Financial Services
 - Conversational AI
 - Customer Engagement
 - Relationship Banking
-- Agentic AI
+- AI Agents
 tags_raw:
 - Company
 - AI
@@ -60,6 +60,7 @@ tags_raw:
 - Customer Engagement
 - Relationship Banking
 - Agentic AI
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
