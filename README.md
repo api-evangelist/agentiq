@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AgentIQ is a company surfaced as a portfolio company of sierra-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Agent IQ is an AI-powered relationship-banking and institutional-intelligence platform for banks and credit unions. Its Lynq platform connects account holders with a personal banker across persistent digital channels — messaging, SMS, voice, social (WhatsApp/Facebook), web chat, co-browsing and video banking — while its agentic-AI products (Smart Assist, Smart Drive, Smart Control) guide staff and automate back-office workflows. Delivered as SaaS with single-tenant deployment per institution and integrations into digital-banking cores (Q2, Narmi, Jack Henry Banno, ebankIT, FIS, Fiserv, Lumin, Apiture) via APIs and webhooks. SOC 2 Type II and WCAG 2.1 AA. Headquartered in Austin, Texas and backed by Sierra Ventures.
 
-Backed by: sierra-ventures — https://agentiq.com/
+**Areas:** Company · Artificial Intelligence · Banking · Financial Services · Conversational AI · Customer Engagement · Relationship Banking · AI Agents
+
+## AgentIQ on APIs.io
+
+Everything profiled for AgentIQ is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentiq/](https://apis.io/providers/agentiq/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentiq Domain Security](https://apis.io/security/agentiq/agentiq-domain-security/)
+- [Agentiq Trust Center](https://apis.io/security/agentiq/agentiq-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentiq.com/)
+- [Documentation](https://dev.agentiq.com/)
+- [Sign up](https://agentiq.com/demo)
+- [Blog](https://agentiq.com/the-scoop/)
+- [Compliance](https://agentiq.com/security-and-accessibility)
+- [Privacy policy](https://agentiq.com/privacy-policy)
+- [GitHub](https://github.com/agentiq)
+
+## API Evangelist rating
+
+**Kin Score 20.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 39.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.8** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentiq/](https://apis.io/providers/agentiq/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentIQ: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentiq/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
