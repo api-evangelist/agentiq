@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentiq Domain Security](https://apis.io/security/agentiq/agentiq-domain-security/)
-- [Agentiq Trust Center](https://apis.io/security/agentiq/agentiq-trust-center/)
+- [AgentIQ Domain Security](https://apis.io/security/agentiq/agentiq-domain-security/)
+- [AgentIQ Trust Center](https://apis.io/security/agentiq/agentiq-trust-center/)
 
 ## Where to find this API
 
@@ -97,16 +97,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 20.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 18.2 |
-| Operational transparency | 2.6 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 39.5 |
+| Access clarity | 40.4 |
 
 **Agent readiness 0.0** — human-only
 
@@ -131,8 +131,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 14.8** — Banking & Open Finance
+**Regulatory alignment 10.4** — Banking & Open Finance
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentiq/](https://apis.io/providers/agentiq/).
 
